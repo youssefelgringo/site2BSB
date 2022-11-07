@@ -116,5 +116,8 @@ button {
     transform: scale(1);
 }
 
+.header{
+    text-align: center;
+}
 
 /**                 CLASS                   **/
